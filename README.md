@@ -69,18 +69,15 @@ CS student obsessed with building AI products that actually solve real problems.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-sand.vercel.app/api?username=sanidhya091&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-eight-sand.vercel.app/api/top-langs/?username=sanidhya091&layout=compact&langs_count=7&theme=github_dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhya091&theme=github-dark-blue&hide_border=true" />
 
-</div>
+<br/><br/>
 
----
+<a href="https://github.com/sanidhya091">
+  <img src="https://img.shields.io/badge/View_Full_GitHub_Activity-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ## 🤝 Let's Connect
 
