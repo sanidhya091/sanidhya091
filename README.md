@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sanidhya+Singh+👋;AI+Product+Builder;Full+Stack+Developer;CS+Student" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=header&text=Hey%20there!%20I'm%20Sanidhya%20Singh%20👋&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+<h3 align="center" style="color:#58A6FF">AI Product Builder · Full Stack Developer · CS Student</h3>
 
 <br/>
 
@@ -99,9 +101,5 @@ If you're building something cool in AI, reach out. Always down to collaborate, 
 <a href="mailto:ssanidhya75@gmail.com">
   <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sanidhya091&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
