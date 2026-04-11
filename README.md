@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+products+that+ship+🚀;React+%7C+FastAPI+%7C+LLMs+%7C+Python;Always+learning%2C+always+building+⚡;Open+to+collabs+and+cool+ideas+🤝" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+products+that+ship+%F0%9F%9A%80;React+%7C+FastAPI+%7C+LLMs+%7C+Python;Always+learning%2C+always+building+%E2%9A%A1;Open+to+collabs+and+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/><br/>
 
