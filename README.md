@@ -46,8 +46,10 @@ class Sanidhya:
 
 | 🔥 Project | 📝 Description | ⚙️ Stack | 🔗 Links |
 |-----------|---------------|---------|---------|
-| **InvoiceAI** | AI-powered invoice extraction & processing | React · FastAPI · GPT-4 | [Live 🌐](https://ai-invoice-hazel.vercel.app/) · [Repo 📁](https://github.com/sanidhya091/invoice-ai-generator) |
-| **Lost & Found Portal** | Campus lost & found with image matching | React · Node.js · MongoDB | [Live 🌐](https://lost-and-found-portal-new.vercel.app/) · [Repo 📁](https://github.com/sanidhya091/lost-and-found-portal-new) |
+| **Anveshak** | Planetary data visualization for NASA Space Apps Challenge 2025 | FastAPI · Python · FAISS · Svelte · Leaflet.js · NASA APIs | [Repo 📁](https://github.com/sanidhya091/nasa-space-apps-anveshak) |
+| **CodeSense** | AI code review platform with severity-based feedback | Next.js · TypeScript · Supabase · Clerk · Groq · LLaMA 3.3 | [Live 🌐](https://code-sense-rho.vercel.app/) · [Repo 📁](https://github.com/sanidhya091/CodeSense) |
+| **InvoiceAI** | AI-powered invoice generator with PDF export | React · Node.js · PostgreSQL · Groq API | [Live 🌐](https://ai-invoice-hazel.vercel.app/) · [Repo 📁](https://github.com/sanidhya091/AI-Invoice) |
+| **Lost & Found Portal** | Campus lost & found platform with admin panel | React · TypeScript · Supabase | [Live 🌐](https://lost-and-found-portal-new.vercel.app/) · [Repo 📁](https://github.com/sanidhya091/lost-and-found-portal-new) |
 
 </div>
 
